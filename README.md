@@ -10,6 +10,7 @@ Getting started With Python
 
 ## Variables
 - What is variables?
+## Data types in Python
 - 
 
 ## Resources:
