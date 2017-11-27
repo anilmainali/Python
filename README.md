@@ -2,6 +2,9 @@
 Getting started With Python
 
 ## Installation For Windows
+
+## Install ATOM
+- Navigate to atom.io
 ## Installation For Windows
 ## Installation For Windows
 
