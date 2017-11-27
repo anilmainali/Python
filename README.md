@@ -9,6 +9,8 @@ Getting started With Python
 ## Installation For Linux
 
 ## Variables
+- What is variables?
+- 
 
 ## Resources:
 Python Official Page:
