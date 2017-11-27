@@ -11,7 +11,11 @@ Getting started With Python
 ## Variables
 - What is variables?
 ## Data types in Python
-- 
+- Number
+- String
+- List
+- Tuple
+- Dictionary
 
 ## Resources:
 Python Official Page:
