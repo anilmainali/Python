@@ -5,8 +5,8 @@ Getting started With Python
 
 ## Install ATOM
 - Navigate to atom.io
-## Installation For Windows
-## Installation For Windows
+## Installation For Mac
+## Installation For Linux
 
 ## Resources:
 Python Official Page:
