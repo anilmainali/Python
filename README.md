@@ -8,6 +8,8 @@ Getting started With Python
 ## Installation For Mac
 ## Installation For Linux
 
+## Variables
+
 ## Resources:
 Python Official Page:
 - https://www.python.org/
