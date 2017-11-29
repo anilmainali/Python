@@ -23,6 +23,7 @@ Getting started With Python
 - Placeholders in Strings
 - Introduction to Lists
 - Dictionaries
+- Tuples
 
 ## Resources:
 Python Official Page:
