@@ -19,6 +19,8 @@ Getting started With Python
 
 ## Practice: 
 - Variables and Multiple Assignment
+- Arithmetic Operators
+- 
 
 ## Resources:
 Python Official Page:
