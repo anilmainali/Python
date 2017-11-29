@@ -21,6 +21,7 @@ Getting started With Python
 - Variables and Multiple Assignment
 - Arithmetic Operators
 - Placeholders in Strings
+- Introduction to Lists
 
 ## Resources:
 Python Official Page:
