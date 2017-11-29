@@ -25,6 +25,8 @@ Getting started With Python
 - Dictionaries
 - Tuples
 - Conditional Statements
+- For Loops
+- While Loops
 
 ## Resources:
 Python Official Page:
