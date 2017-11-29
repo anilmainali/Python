@@ -17,6 +17,9 @@ Getting started With Python
 - Tuple
 - Dictionary
 
+## Practice: 
+- Variables and Multiple Assignment
+
 ## Resources:
 Python Official Page:
 - https://www.python.org/
