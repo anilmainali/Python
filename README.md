@@ -20,7 +20,7 @@ Getting started With Python
 ## Practice: 
 - Variables and Multiple Assignment
 - Arithmetic Operators
-- 
+- Placeholders in Strings
 
 ## Resources:
 Python Official Page:
