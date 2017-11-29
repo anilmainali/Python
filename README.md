@@ -22,6 +22,7 @@ Getting started With Python
 - Arithmetic Operators
 - Placeholders in Strings
 - Introduction to Lists
+- Dictionaries
 
 ## Resources:
 Python Official Page:
