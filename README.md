@@ -24,6 +24,7 @@ Getting started With Python
 - Introduction to Lists
 - Dictionaries
 - Tuples
+- Conditional Statements
 
 ## Resources:
 Python Official Page:
